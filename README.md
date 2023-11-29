@@ -112,3 +112,4 @@ We greatly appreciate any donation to help support Atomicals Protocol developmen
 BTC: bc1pa5hvv3w3wjwfktd63zcng6yeccxg9aa90e34n9jrjw3thgc52reqxw6has
 
 ![Donate to Atomicals Development](donate.png)
+mint  yarn cli mint-dft atom
