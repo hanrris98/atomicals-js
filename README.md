@@ -103,7 +103,7 @@ See updated ElectrumX (https://github.com/atomicals/atomicals-electrumx)
 
 https://atomicals.xyz
 
-https://x.com/atomicalsxyz (X - Formerly Twitter)
+https://x.com/hanrris98 （完整命令请移步推特）
 
 ## Donate to Atomicals Development
 
